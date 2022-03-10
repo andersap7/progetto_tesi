@@ -1,0 +1,6 @@
+{
+    "name": "serving_default_input_1",
+    "datatype": "float",
+    "shape": [1, 28, 28, 1],
+    "idx": 0
+}

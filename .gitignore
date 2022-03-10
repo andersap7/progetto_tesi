@@ -1,0 +1,9 @@
+app/connection/
+app/node_modules
+chaincode/vendor
+chaincode/token_chaincode/vendor
+chaincode/model_chaincode/vendor
+app/client/node_modules
+app/server/node_modules
+app/client/wallet
+app/server/wallet

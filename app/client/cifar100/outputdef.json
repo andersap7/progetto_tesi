@@ -1,0 +1,6 @@
+{
+    "name": "StatefulPartitionedCall",
+    "datatype": "float",
+    "shape": [1, 100],
+    "idx": 0
+}

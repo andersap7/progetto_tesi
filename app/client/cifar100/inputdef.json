@@ -1,0 +1,6 @@
+{
+    "name": "serving_default_conv2d_input",
+    "datatype": "float",
+    "shape": [1, 32, 32, 3],
+    "idx": 0
+}
